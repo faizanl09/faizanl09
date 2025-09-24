@@ -17,10 +17,8 @@ Passionate about harnessing the power of Artificial Intelligence 🤖 and Machin
 ---
 
 ## 📈 GITHUB ACTIVITY
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faizanl09&theme=dark&border_radius=10)
 
 
-![github-contribution-grid-snake](https://github.com/user-attachments/assets/529240fc-34ce-4676-ab40-970f0592ae7a)
 ---
 <table>
   <tr>
@@ -39,8 +37,6 @@ Passionate about harnessing the power of Artificial Intelligence 🤖 and Machin
 
 
 ---
-![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/a922d272-39ca-47fa-9103-383b221c4ede)
-
 
 
 
