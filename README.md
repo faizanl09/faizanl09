@@ -17,6 +17,8 @@ Passionate about harnessing the power of Artificial Intelligence 🤖 and Machin
 ---
 
 ## 📈 GITHUB ACTIVITY
+![GitHub Contributions Fireworks](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
 
 ---
 <table>
