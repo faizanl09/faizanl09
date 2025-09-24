@@ -7,7 +7,6 @@ Passionate about harnessing the power of Artificial Intelligence 🤖 and Machin
 
 ✨ I love turning complex data into meaningful insights and building technology that drives impact and sparks curiosity! 💡
 
-![Rocket flying over contributions](https://raw.githubusercontent.com/faizanl09/faizanl09/output/rocket-contributions.svg)
 
 ---
 
