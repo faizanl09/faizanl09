@@ -18,6 +18,7 @@ Passionate about harnessing the power of Artificial Intelligence 🤖 and Machin
 
 ## 📈 GITHUB ACTIVITY
 
+![Custom GitHub Snake](https://raw.githubusercontent.com/faizanl09/faizanl09/output/custom-snake.svg)
 
 ---
 <table>
