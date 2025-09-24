@@ -81,9 +81,13 @@ Passionate about harnessing the power of Artificial Intelligence 🤖 and Machin
 ## 🤝 CONNECT WITH ME 🌐
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/lone-faizan-9a791931a/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" style="filter: brightness(100) invert(1);"/>
+  </a>
   <a href="mailto:lonefaizan51@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" style="filter: brightness(100) invert(1);"/>
   </a>
 </p>
+
 
 
