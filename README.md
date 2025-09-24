@@ -18,6 +18,9 @@ Passionate about harnessing the power of Artificial Intelligence 🤖 and Machin
 
 ## 📈 GITHUB ACTIVITY
 
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=faizanl09&show_icons=true&theme=dracula&count_private=true)
+
+
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/529240fc-34ce-4676-ab40-970f0592ae7a)
 ---
 <table>
