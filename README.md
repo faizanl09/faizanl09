@@ -40,12 +40,6 @@ Passionate about harnessing the power of Artificial Intelligence 🤖 and Machin
 ---
 
 
-
-## 🌱 MY LATEST PROJECTS 🚀
-
----
-
-
 ## 🥇 COMPETITIONS 🎉
 
 - 🌟 InnoSprint – Innovated at CGC Jhanjeri's hackathon.
